@@ -9,7 +9,8 @@
   	<module>cohort-web</module>
   	<module>cohort-business</module>
   	<module>cohort-model</module>
-  	<module>cohort-ws</module>
+    	<module>cohort-ws</module>
+  
   </modules>
   
   <repositories>
